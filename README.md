@@ -26,6 +26,9 @@ Debug any issues.
 Future Enhancements:
 Integrate real weather data from an API.
 Add error handling and improve UI/UX.
-![Screenshot 2024-08-13 222626](https://github.com/user-attachments/assets/65bc5706-acf3-4a8a-ade3-4a400d64b9fd)
+![Screenshot 2024-08-14 105915](https://github.com/user-attachments/assets/3bdea405-bb10-42a2-9f8c-49d762b4ca6a)
+
+![Screenshot 2024-08-14 110127](https://github.com/user-attachments/assets/f42a8d5b-b2f3-4a01-9ba4-c2f9b4c708c1)
+
 
 
