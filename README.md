@@ -4,6 +4,8 @@ ID:CT08DS6612
 Domain: WEB DEVELOPMENT 
 Duration:AUGUST to SEPTEMBER
 Mentor:MUZAMMIL AHMED
+
+
 Project Overview: Weather Forecast Application
 Objective:
 Create a web app where users can enter a city name to receive simulated weather information. The app features a cloud image and a sun icon to visually enhance the forecast display.
