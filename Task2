@@ -137,7 +137,7 @@
             const city = document.getElementById('city-input').value;
             if (city) {
                 // Simulated weather information
-                const weatherInfo = `Weather in ${city}: Sunny, 29°C`;
+                const weatherInfo = `Weather in ${city}: Sunny, 33°C`;
                 document.getElementById('weather-info').innerText = weatherInfo;
                 document.getElementById('weather-display').style.display = 'block';
             }
