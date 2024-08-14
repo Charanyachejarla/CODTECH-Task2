@@ -27,7 +27,7 @@ Key Activities:
 
 UI Layout Design:
 
-Structured the page using HTML elements (<div>,<input>,<button>).
+Structured the page using HTML elements div,input,button.
 Organized the content into a centered container to ensure a responsive and visually appealing layout.
 
 Styling and Visual Design:
@@ -49,7 +49,7 @@ Technologies Used:
 
 HTML:
 
-Structuring the page layout and content using semantic elements like <div>,<input>,and<button>.
+Structuring the page layout and content using semantic elements like div,input,and button.
 
 CSS:
 
