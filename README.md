@@ -1,19 +1,30 @@
 Name:CHARANYA CHEJARLA
+
 Company:CODETECH IT SOLUTIONS 
+
 ID:CT08DS6612
+
 Domain: WEB DEVELOPMENT 
+
 Duration:AUGUST to SEPTEMBER
+
 Mentor:MUZAMMIL AHMED
 
 
-Project Overview: Weather Forecast Application
-Objective:
+PROJECT OVERVIEW:WEATHER FORECAST APPLICATION
+
+OBJECTIVE:
+
 Create a web app where users can enter a city name to receive simulated weather information. The app features a cloud image and a sun icon to visually enhance the forecast display.
-Features:
+
+FEATURES:
+
 Search Box: Allows city name input and triggers weather display.
 Weather Display: Shows a cloud image at the top and weather info with a sun icon below.
 Responsive Design: Centers elements on the page and adapts to screen sizes.
-Tasks:
+
+TASKS:
+
 Setup HTML & CSS:
 Build layout with search box, cloud image, and weather info container.
 Style elements and center them using Flexbox.
